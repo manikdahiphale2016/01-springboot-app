@@ -1,0 +1,5 @@
+@RestConroller
+public Class StudentController {
+  
+  
+}
