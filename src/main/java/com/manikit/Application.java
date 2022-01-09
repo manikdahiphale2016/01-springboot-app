@@ -12,4 +12,8 @@ public class Application {
 		int a = 10;
 	}
 
+	public void doProcess(){
+		//logic goes here
+	}
+
 }
