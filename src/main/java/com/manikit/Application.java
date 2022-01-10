@@ -9,6 +9,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		private Map<String,Object> cache = new HashMap<String,Object>();
+		private String name="Manik";
 		SpringApplication.run(Application.class, args);
 
 		int a = 10;
